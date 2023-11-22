@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [What is Tor?](what-is-tor.md)
 
 ## Mobile Concepts
 
