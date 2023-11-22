@@ -167,13 +167,3 @@ configuration.geoipFile = NSBundle.geoIpBundle.geoipFile;
 configuration.geoip6File = NSBundle.geoIpBundle.geoip6File;
 ```
 
-### Authors
-
-* Conrad Kramer, [conrad@conradkramer.com](mailto:conrad@conradkramer.com)
-* Chris Ballinger, [chris@chatsecure.org](mailto:chris@chatsecure.org)
-* Mike Tigas, [mike@tig.as](mailto:mike@tig.as)
-* Benjamin Erhart, [berhart@netzarchitekten.com](mailto:berhart@netzarchitekten.com)
-
-### License
-
-Tor.framework is available under the MIT license. See the [`LICENSE`](https://github.com/iCepa/Tor.framework/blob/master/LICENSE) file for more info.
