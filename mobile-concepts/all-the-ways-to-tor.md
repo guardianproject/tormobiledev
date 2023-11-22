@@ -10,7 +10,7 @@ It is now easier than ever to directly build Tor into your app, hiding all compl
 
 ### Integrate with external Orbot or TorServices app
 
-If you do not want to add the additional code complexity and size directly into your app, you can instead only active Tor features if the user has [Orbot](../tor-on-android/netcipher-with-orbot-legacy.md) or [TorServices](../tor-on-android/torservices.md) installed on their device. Apps like [F-Droid](../mobile-apps-with-tor.md) and [ReThinkDNS](../mobile-apps-with-tor.md) do this today, to enable proxying through Tor without having to build i n all of Tor.
+If you do not want to add the additional code complexity and size directly into your app, you can instead only active Tor features if the user has [Orbot](../tor-on-android/netcipher-with-orbot-legacy.md) or [TorServices](../tor-on-android/torservices.md) installed on their device. Apps like [F-Droid](../mobile-apps-with-tor.md), [Save by OpenArchive](../mobile-apps-with-tor.md), and [ReThinkDNS](../mobile-apps-with-tor.md) do this today, to enable proxying through Tor without having to build i n all of Tor.
 
 ### Implement Tor in a VPN or Network Extension
 
