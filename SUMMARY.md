@@ -9,7 +9,7 @@
 
 * [Limitations of Mobile Devices](mobile-concepts/limitations-of-mobile-devices.md)
 * [User Stories](mobile-concepts/user-stories.md)
-* [All the Ways to Tor](mobile-concepts/all-the-ways-to-tor.md)
+* [All the Ways to Torify](mobile-concepts/all-the-ways-to-torify.md)
 
 ## Tor on Android
 
