@@ -1,3 +1,7 @@
+---
+description: Aspects of mobile devices that should always be considered
+---
+
 # Limitations of Mobile Devices
 
 * Processing power

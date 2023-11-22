@@ -1,3 +1,7 @@
+---
+description: Why a user of an app might benefit from Tor integration
+---
+
 # User Stories
 
 * User needs to use app in a place where it may be blocked

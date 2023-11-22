@@ -13,8 +13,8 @@
 
 ## Tor on Android
 
-* [Onion-Eating Robots](tor-on-android/onion-eating-robots.md)
+* [All The Onions on Android](tor-on-android/all-the-onions-on-android.md)
 
 ## Tor on iOS
 
-* [Onions on Apples](tor-on-ios/onions-on-apples.md)
+* [All The Onions on Apples](tor-on-ios/all-the-onions-on-apples.md)

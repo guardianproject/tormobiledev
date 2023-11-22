@@ -1,3 +1,7 @@
+---
+description: The state of the two primary Tor implementations
+---
+
 # Tor ("C Tor") vs Arti: What?!
 
 For software projects with recurring bugs, efficiency or security issues there’s a joke making the rounds in the software industry: “Let’s re-write it in [Rust](https://en.wikipedia.org/wiki/Rust\_\(programming\_language\))!” It’s a fairly new low-level programming language with the declared goal to help developers avoid entire classes of bugs, security issues and other pitfalls. Re-writing software is very time consuming, so it rarely happens, especially when just one more fix will keep a project up and running.
