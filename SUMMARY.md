@@ -14,6 +14,7 @@
 ## Tor on Android
 
 * [All The Onions on Android](tor-on-android/onion-eating-robots.md)
+* [Tor-Android library](tor-on-android/tor-android-library.md)
 
 ## Tor on iOS
 
