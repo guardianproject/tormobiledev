@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [What is Tor?](what-is-tor.md)
+* [Mobile Apps with Tor](mobile-apps-with-tor.md)
 
 ## Mobile Concepts
 
