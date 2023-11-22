@@ -15,6 +15,7 @@
 
 * [All The Onions on Android](tor-on-android/onion-eating-robots.md)
 * [Tor-Android library](tor-on-android/tor-android-library.md)
+* [NetCipher (Legacy)](tor-on-android/netcipher-legacy.md)
 
 ## Tor on iOS
 
