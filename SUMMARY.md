@@ -19,3 +19,4 @@
 ## Tor on iOS
 
 * [All The Onions on Apples](tor-on-ios/onions-on-apples.md)
+* [Tor.Framework for iOS](tor-on-ios/tor.framework-for-ios.md)
