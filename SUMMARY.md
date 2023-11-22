@@ -8,7 +8,7 @@
 ## Mobile Concepts
 
 * [Limitations of Mobile Devices](mobile-concepts/limitations-of-mobile-devices.md)
-* [Users in the OnionVerse](mobile-concepts/users-in-the-onionverse.md)
+* [Users in the OnionVerse](mobile-concepts/user-stories.md)
 * [All the Ways to Torify](mobile-concepts/all-the-ways-to-tor.md)
 
 ## Tor on Android

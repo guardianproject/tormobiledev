@@ -2,9 +2,7 @@
 description: Why a user of an app might benefit from Tor integration
 ---
 
-# User Stories
-
-
+# Users in the OnionVerse
 
 **User Needs to Use App in a Place Where It May Be Blocked**
 
