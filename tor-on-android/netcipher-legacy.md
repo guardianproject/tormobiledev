@@ -4,6 +4,23 @@ description: Time-tested way to integrate with Orbot for Android
 
 # NetCipher (Legacy)
 
+You can find the NetCipher homepage at [https://guardianproject.info/code/netcipher/](https://guardianproject.info/code/netcipher/)
+
+NetCipher is a library for Android that provides multiple means to improve network security in mobile applications. It provides best practices TLS settings using the standard Android HttpURLConnection methods, [`HttpURLConnection`](https://developer.android.com/reference/java/net/HttpURLConnection.html), OkHTTP3, Volley, and [Apache HTTP Client](https://hc.apache.org/httpcomponents-client-4.3.x/index.html), provides simple Tor integration, makes it easy to configure proxies for HTTP connections and `WebView` instances.
+
+More specifically this library provides:
+
+* Hardening of TLS protocol support and cipher suites, especially on older\
+  versions of Android
+* Proxied Connection Support: HTTP and SOCKS proxy connection support for HTTP\
+  and HTTPS traffic through specific configuration
+* OrbotHelper: a utility class to support application integration with Orbot\
+  (Tor for Android). Check if its installed, automatically start it, etc.
+* Optional, custom certificate store based on the open Debian root CA trust\
+  store, which is built with Mozilla’s CA collection.
+
+IT MUST BE NOTED, that you can use this library without using Orbot/Tor, but obviously we think using strong TLS/SSL connections over Tor is just about the best thing in the world.
+
 [NetCipher](https://guardianproject.info/code/netcipher) has been relatively quiet in recent years, because it kept on working, doing it was doing. Now, we have had some recent discoveries about the guts of Android that mean NetCipher is a lot easier to use on recent Android versions. On top of that, TLSv1.2 now reigns supreme and is basically everywhere, so it is time to turn TLSv1.0 and TLSv1.1 entirely off.
 
 ### A single method to enable proxying for the whole app <a href="#a-single-method-to-enable-proxying-for-the-whole-app" id="a-single-method-to-enable-proxying-for-the-whole-app"></a>
