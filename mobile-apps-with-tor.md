@@ -14,6 +14,10 @@ Orbot is a free proxy app that empowers other apps to use the internet more secu
 
 Tor Browser for Android is the official Tor Project browser for Android devices. It's a mobile browser that focuses on privacy and security, allowing users to browse the internet anonymously. The browser blocks trackers, defends against surveillance, and resists fingerprinting. It’s built on the same principles as the desktop version, providing a similar experience of private and secure web browsing on mobile devices.
 
+[**OnionBrowser for iOS**](https://onionbrowser.com)
+
+Like Tor Browser, OnionBrowser is a mobile browser that focuses on privacy and security, allowing users to browse the internet anonymously through built-in Tor support on iOS devices. In this case, it is built upon the Apple WKWebView component, which provides its own methods for enhancing privacy and reducing tracking that OnionBrowser takes advantage of. It isn't a 1-1 perfect clone of Tor Browser, but it does everything possible to be at parity within the constraints of the Apple operating system.
+
 [**OnionShare for Android and iOS**](https://onionshare.org/mobile)
 
 OnionShare is an open-source tool that lets you securely and anonymously share files, host websites, and chat using the Tor network. Available for both Android and iOS, this app sets up a secure server directly on your device, allowing you to send and receive files without any third-party involvement. The unique aspect of OnionShare is its use of onion services, ensuring that all data remains encrypted and private during transit.
