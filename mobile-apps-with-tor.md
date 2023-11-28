@@ -5,6 +5,8 @@ description: Summary of known mobile applications with Tor Support
 # Mobile Apps with Tor
 
 {% embed url="https://www.youtube.com/watch?v=F1ddl6XMnQU" %}
+From 2020 - a summary of some mobile apps with Tor at that time
+{% endembed %}
 
 [**Orbot: Tor VPN for Android and iOS**](https://orbot.app)
 
