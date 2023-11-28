@@ -23,3 +23,7 @@
 
 * [All The Onions on Apples](tor-on-ios/onions-on-apples.md)
 * [Tor.Framework for iOS](tor-on-ios/tor.framework-for-ios.md)
+
+## Help and Community
+
+* [Where to get help](help-and-community/where-to-get-help.md)
