@@ -4,9 +4,11 @@ description: Aspects of mobile devices that should always be considered
 
 # Limitations of Mobile Devices
 
-**Processing Power**
+{% embed url="https://gateway.pinata.cloud/ipfs/QmRR9zfCD2UrUHRK8hH4s2QzneFVJPjfYuU1RiWgcr7XWW" %}
+n8fr8 is back to talk about limitations of mobile devices
+{% endembed %}
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>asdasdasd</td><td></td><td></td></tr><tr><td></td><td>asdasdsad</td><td></td></tr><tr><td></td><td>asdasdasd</td><td></td></tr></tbody></table>
+**Processing Power**
 
 Tor's encryption and routing mechanisms require significant processing power. On mobile devices, this can lead to slower performance, especially on lower-end models. Developers must optimize Tor integration to minimize CPU usage and ensure that the app remains responsive while maintaining the security and anonymity features of Tor.
 
