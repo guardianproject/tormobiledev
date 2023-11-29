@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [What is Tor?](what-is-tor.md)
+* [The History of Tor](the-history-of-tor.md)
+* [The Tor Protocol](the-tor-protocol.md)
 * [Mobile Apps with Tor](mobile-apps-with-tor.md)
 * [Tor ("C Tor") vs Arti: What?!](tor-c-tor-vs-arti-what.md)
 
