@@ -6,4 +6,6 @@ description: Summary of ways to integrate Tor on iOS devices
 
 * Tor.framework for iOS: [https://github.com/iCepa/Tor.framework](https://github.com/iCepa/Tor.framework)
 * IPtProxy Pluggable Transports: [https://github.com/tladesignz/IPtProxy/](https://github.com/tladesignz/IPtProxy/)
+* IPtProxyUI library: [https://github.com/tladesignz/IPtProxyUI-ios](https://github.com/tladesignz/IPtProxyUI-ios)
+* OrbotKit: [https://github.com/guardianproject/OrbotKit](https://github.com/guardianproject/OrbotKit)
 * Arti Mobile: [https://gitlab.com/guardianproject/arti-mobile-ex](https://gitlab.com/guardianproject/arti-mobile-ex)

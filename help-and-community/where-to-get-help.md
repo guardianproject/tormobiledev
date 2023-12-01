@@ -1,5 +1,5 @@
 ---
-description: Please to go to ask more questions about Tor and mobile development
+description: Where to go to ask more questions about Tor and mobile development
 ---
 
 # Where to get help

@@ -2,11 +2,11 @@
 description: Time-tested way to integrate with Orbot for Android
 ---
 
-# NetCipher (Legacy)
+# NetCipher with Orbot (Legacy)
 
 You can find the NetCipher homepage at [https://guardianproject.info/code/netcipher/](https://guardianproject.info/code/netcipher/)
 
-NetCipher is a library for Android that provides multiple means to improve network security in mobile applications. It provides best practices TLS settings using the standard Android HttpURLConnection methods, [`HttpURLConnection`](https://developer.android.com/reference/java/net/HttpURLConnection.html), OkHTTP3, Volley, and [Apache HTTP Client](https://hc.apache.org/httpcomponents-client-4.3.x/index.html), provides simple Tor integration, makes it easy to configure proxies for HTTP connections and `WebView` instances.
+NetCipher is a library for Android that provides multiple means to improve network security in mobile applications. It provides best practices TLS settings using the standard Android methods [`HttpURLConnection`](https://developer.android.com/reference/java/net/HttpURLConnection.html), OkHTTP3, Volley, and [Apache HTTP Client](https://hc.apache.org/httpcomponents-client-4.3.x/index.html), provides simple Tor integration, makes it easy to configure proxies for HTTP connections and `WebView` instances.
 
 More specifically this library provides:
 
@@ -37,7 +37,7 @@ In Android 7.0 (24 aka Nougat), Google switched over to OpenJDK, which brought w
 
 Transport Layer Security (TLS) is the protocol that powers most of the internet these days. It gives HTTPS the S for “Secure”. After many years of slow updates and an increasing number of vulnerabilities, there is finally critical mass to stop using the old, broken versions. TLS version 1.2 is not seriously vulnerable and is supported basically everywhere. TLSv1.2 was finalized in 2008, so this is very far from the bleeding edge. TLSv1.2 is supported all the way back to [Android 4.1](https://developer.android.com/reference/javax/net/ssl/SSLSocket#protocols). TLSv1.0 and TLSv1.1 are due to be officially deprecated by the IETF, the standards body that actually creates the TLS standard. The major browser vendors have all promised to drop them in 2020.
 
-One way to enforce TLSv1.2 support would be to configure the server-side to stop supporting TLSv1.0 and TLSv1.1, like is recommend with SSLv2 and SSLv3. Using NetCipher to do this on the client side means that old app versions and devices of F-Droid and old devices will continue to work. Also, doing it client-side means that all TLS connections will gain this protection regardless of which server the client is connecting to.
+One way to enforce TLSv1.2 support would be to configure the server-side to stop supporting TLSv1.0 and TLSv1.1, like is recommend with SSLv2 and SSLv3. Using NetCipher to do this on the client side means that old app versions and old devices will continue to work. Also, doing it client-side means that all TLS connections will gain this protection regardless of which server the client is connecting to.
 
 The _NetCipher_ approach means apps will never use TLS older than v1.2 since they will refuse to connect unless TLSv1.2 is available. The server-side can then safely support TLSv1.0 and TLSv1.1, so older clients and Android devices will still be able to connect, even if they do not support TLSv1.2. It is win-win for everyone.
 
