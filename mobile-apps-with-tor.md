@@ -36,4 +36,8 @@ Briar is a unique messaging app designed for activists, journalists, and anyone 
 
 Save by OpenArchive is a mobile app designed to help users preserve, protect, and authenticate their digital media. It allows individuals to securely archive their media to trusted, decentralized, and long-term storage providers. The app ensures that valuable digital information, such as videos and photos, are protected from loss, manipulation, or deletion. It's an essential tool for journalists, human rights activists, and archivists who need to safeguard digital evidence and important media assets.
 
+[**Quiet**](https://tryquiet.org)
+
+Whether it's for an organization, a community, or a group chat with friends, Quiet lets you control all your data without running your own servers. While apps like Slack, Discord, and Signal use central servers, Quiet syncs messages directly between a team’s devices, over Tor, with no server required. Quiet stores your community's data only on your community's phones and laptops, so it's always under your control. Quiet gives you a peer-to-peer network that just works, so you can be independent and private without running your own server.
+
 Each of these apps offers unique features and capabilities, particularly focusing on privacy, security, and open-source development, catering to specific needs in the digital privacy and mobile communication space.
