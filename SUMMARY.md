@@ -27,6 +27,7 @@
 * [IPtProxy Pluggable Transports](tor-on-ios/iptproxy-pluggable-transports.md)
 * [IPtProxyUI](tor-on-ios/iptproxyui.md)
 * [OrbotKit](tor-on-ios/orbotkit.md)
+* [TorManager](tor-on-ios/tormanager.md)
 * [Arti and Onionmasq on iOS](tor-on-ios/arti-and-onionmasq-on-ios.md)
 
 ## Help and Community
