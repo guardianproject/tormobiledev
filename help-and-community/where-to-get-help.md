@@ -12,3 +12,4 @@ Guardian Project has a mobile specific [Guardian-Dev Discussion List](https://li
 
 Follow us on Mastodon: [@guardianproject@librem.one](https://social.librem.one/@guardianproject)
 
+<figure><img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxoZWxwJTIwZGVza3xlbnwwfHx8fDE3MTUxODg4Mzl8MA&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption></figcaption></figure>

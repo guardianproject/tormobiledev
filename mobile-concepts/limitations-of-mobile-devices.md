@@ -1,12 +1,10 @@
 ---
-description: Aspects of mobile devices that should always be considered
+description: Aspects of mobile device challenges that should always be considered
 ---
 
 # Limitations of Mobile Devices
 
-{% embed url="https://gateway.pinata.cloud/ipfs/QmRR9zfCD2UrUHRK8hH4s2QzneFVJPjfYuU1RiWgcr7XWW" %}
-n8fr8 is back to talk about limitations of mobile devices
-{% endembed %}
+<figure><img src="https://images.unsplash.com/photo-1456132022829-e771cbd1f7da?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxsaW1pdGF0aW9uc3xlbnwwfHx8fDE3MTUxODg1MDl8MA&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption></figcaption></figure>
 
 **Processing Power**
 
