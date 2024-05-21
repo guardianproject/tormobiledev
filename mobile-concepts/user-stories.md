@@ -1,5 +1,5 @@
 ---
-description: Why a user of an app might benefit from Tor integration
+description: Why and how a user of an app might benefit from Tor integration
 layout:
   title:
     visible: true
@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# Users in the OnionVerse
+# Mobile Users in the OnionVerse
 
 **User Needs to Use App in a Place Where It May Be Blocked**
 

@@ -1,16 +1,16 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Welcome to Onion Mobile Devs!](README.md)
 * [The History of Tor](the-history-of-tor.md)
 * [The Tor Protocol](the-tor-protocol.md)
-* [Mobile Apps with Tor](mobile-apps-with-tor.md)
 * [Tor ("C Tor") vs Arti: What?!](tor-c-tor-vs-arti-what.md)
 
 ## Mobile Concepts
 
+* [Mobile Apps with Tor](mobile-concepts/mobile-apps-with-tor.md)
+* [Possible Ways to Tor Your App](mobile-concepts/all-the-ways-to-tor.md)
 * [Limitations of Mobile Devices](mobile-concepts/limitations-of-mobile-devices.md)
-* [Users in the OnionVerse](mobile-concepts/user-stories.md)
-* [All the Ways to Torify](mobile-concepts/all-the-ways-to-tor.md)
+* [Mobile Users in the OnionVerse](mobile-concepts/user-stories.md)
 
 ## Tor on Android
 

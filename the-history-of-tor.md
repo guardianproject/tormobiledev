@@ -4,11 +4,11 @@ description: About Tor, Tor Project and Onion Routing
 
 # The History of Tor
 
-The Tor Project, Inc, became a 501(c)(3) nonprofit in 2006, but the idea of "onion routing" began in the mid 1990s.
+The [Tor Project, Inc,](https://torproject.org) became a 501(c)(3) nonprofit in 2006, but the idea of "onion routing" [began in the mid 1990s](https://www.onion-router.net/).
 
 Just like Tor users, the developers, researchers, and founders who've made Tor possible are a diverse group of people. But all of the people who have been involved in Tor are united by a common belief: internet users should have private access to an uncensored web.
 
-<figure><img src="https://images.unsplash.com/photo-1479142506502-19b3a3b7ff33?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxoaXN0b3J5fGVufDB8fHx8MTcxNTE4ODY5NHww&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>The Humans of Tor</p></figcaption></figure>
 
 In the 1990s, the lack of security on the internet and its ability to be used for tracking and surveillance was becoming clear, and in 1995, David Goldschlag, Mike Reed, and Paul Syverson at the U.S. Naval Research Lab (NRL) asked themselves if there was a way to create internet connections that don't reveal who is talking to whom, even to someone monitoring the network. Their answer was to create and deploy the first research designs and prototypes of onion routing.
 

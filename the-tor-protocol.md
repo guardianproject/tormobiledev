@@ -1,10 +1,10 @@
 ---
-description: How Tor works at the network level
+description: How Tor works at the packet and network level
 ---
 
 # The Tor Protocol
 
-<figure><img src="https://images.unsplash.com/photo-1587049276124-b933e057e698?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxvbmlvbnxlbnwwfHx8fDE3MTUxODg2NzR8MA&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p><a href="https://unit42.paloaltonetworks.com/tor-traffic-enterprise-networks/">"Tor 101"</a> from Palo Alto Networks</p></figcaption></figure>
 
 Internet communication is based on a store-and-forward model that can be understood in analogy to postal mail: Data is transmitted in blocks called IP datagrams or packets. Every packet includes a source IP address (of the sender) and a destination IP address (of the receiver), just as ordinary letters contain postal addresses of sender and receiver. The way from sender to receiver involves multiple hops of routers, where each router inspects the destination IP address and forwards the packet closer to its destination. Thus, every router between sender and receiver learns that the sender is communicating with the receiver. In particular, your local ISP is in the position to build a complete profile of your Internet usage. In addition, every server in the Internet that can see any of the packets can profile your behavior.
 
