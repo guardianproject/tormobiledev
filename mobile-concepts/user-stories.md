@@ -15,6 +15,10 @@ layout:
 
 # Mobile Users in the OnionVerse
 
+User personas are a key component of [Tor's human-centered design process](https://community.torproject.org/user-research/). They help foster empathy by encouraging our developers to better understand the motivations, pain points and goals of our users. The f[irst generation of Tor personas](https://community.torproject.org/user-research/personas/) were created following a series of field studies in the Global South from 2018 to 2019, where we were fortunate to meet many different kinds of Tor users – including activists, journalists and other human rights defenders. You can view them all on the [Tor Persona User Research page](https://community.torproject.org/user-research/personas/).
+
+Below are some additional lightweight, mobile centric user stories that can also help consider the types of users who may benefit from Tor support being built into your app.
+
 **User Needs to Use App in a Place Where It May Be Blocked**
 
 <figure><img src="https://images.unsplash.com/photo-1569016832321-084c128adeb8?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxqb3VybmFsaXN0fGVufDB8fHx8MTcwMTIwMzgyNXww&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption><p>Alex, a journalist working in a region with strict internet censorship</p></figcaption></figure>
@@ -31,7 +35,7 @@ Consider Sarah, a human rights activist, who needs to share sensitive documents 
 
 **User Wants to Search or Browse Data Without It Being Linked to Their IP Address**
 
-<figure><img src="https://images.unsplash.com/photo-1575089976121-8ed7b2a54265?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxpbnZlc3RpZ2F0b3J8ZW58MHx8fHwxNzAxMjAzOTEyfDA&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption><p>Tom, a researcher</p></figcaption></figure>
+<figure><img src="https://images.unsplash.com/photo-1622556498246-755f44ca76f3?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjB1c2luZyUyMHBob25lfGVufDB8fHx8MTcxNjMzNTMwOXww&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption></figcaption></figure>
 
 Envision Tom, a researcher who frequently needs to access various online resources for his work. However, Tom is concerned about privacy and does not want his searches and browsing history to be tracked or linked to his IP address. He is wary of surveillance and data collection practices that could compromise his anonymity and the confidentiality of his research. Tom seeks a solution that allows him to browse the internet freely, without leaving a digital footprint that could be traced back to him. This capability is not just a matter of privacy but also a professional necessity to ensure the integrity and confidentiality of his research work.
 
