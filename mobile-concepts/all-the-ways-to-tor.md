@@ -4,6 +4,10 @@ description: Summary of different ways an app can integrate with Tor
 
 # Possible Ways to Tor Your App
 
+{% embed url="https://www.youtube.com/watch?v=DgWZjP1UkxQ" %}
+Tor Ecosystem on Mobile from Tor State of the Onion 2023
+{% endembed %}
+
 ### Build Tor into your app
 
 It is now easier than ever to directly build Tor into your app, hiding all complexity of setup and configuration from your users. Whether you use [Tor-Android](../tor-on-android/tor-android-library.md), [Arti](../tor-c-tor-vs-arti-what.md), or [Tor.framework](../tor-on-ios/tor.framework-for-ios.md), there are many options ready to go. Apps like Tor Browser for Android do this today, to provide a seamless, integrated experience for browsing the web over Tor.
