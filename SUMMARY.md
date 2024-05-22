@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Onion Mobile Devs!](README.md)
+* [🧅 Welcome to Onion Mobile Devs!](README.md)
 * [The History of Tor](the-history-of-tor.md)
 * [The Tor Protocol](the-tor-protocol.md)
 * [Tor ("C Tor") vs Arti: What?!](tor-c-tor-vs-arti-what.md)

@@ -1,10 +1,8 @@
 ---
 description: Where to begin with integrating Tor support into your mobile app or service
-cover: .gitbook/assets/android-dark-web.avif
-coverY: 0
 ---
 
-# Welcome to Onion Mobile Devs!
+# 🧅 Welcome to Onion Mobile Devs!
 
 Tor, a [free and open-source software](the-history-of-tor.md) for enabling anonymous communication, routes Internet traffic through a worldwide, volunteer overlay network, consisting of thousands of relays, to conceal a user's location and usage from network surveillance or traffic analysis. By integrating [Tor into your mobile app](mobile-concepts/mobile-apps-with-tor.md), you provide your users with the ability to [maintain privacy and evade censorship](the-tor-protocol.md).
 
