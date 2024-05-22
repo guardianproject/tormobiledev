@@ -8,6 +8,8 @@ You can find the NetCipher homepage at [https://guardianproject.info/code/netcip
 
 NetCipher is a library for Android that provides multiple means to improve network security in mobile applications. It provides best practices TLS settings using the standard Android methods [`HttpURLConnection`](https://developer.android.com/reference/java/net/HttpURLConnection.html), OkHTTP3, Volley, and [Apache HTTP Client](https://hc.apache.org/httpcomponents-client-4.3.x/index.html), provides simple Tor integration, makes it easy to configure proxies for HTTP connections and `WebView` instances.
 
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
 More specifically this library provides:
 
 * Hardening of TLS protocol support and cipher suites, especially on older\
