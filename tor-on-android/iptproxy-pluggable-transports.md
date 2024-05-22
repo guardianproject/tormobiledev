@@ -4,7 +4,7 @@ description: >-
   Android
 ---
 
-# Pluggable Transports for iOS
+# Pluggable Transports for Android
 
 IPtProxy is the primary reusable library for integrating the latest anti-censorhip capabilities into your mobile app. You can find IPtProxy at [https://gitlab.com/guardianproject/IPtProxy](https://gitlab.com/guardianproject/IPtProxy) with the "live" development work also done at [https://github.com/tladesignz/IPtProxy/](https://github.com/tladesignz/IPtProxy/)
 

@@ -16,6 +16,7 @@
 
 * [All The Onions on Android](tor-on-android/onion-eating-robots.md)
 * [Tor-Android library](tor-on-android/tor-android-library.md)
+* [Pluggable Transports for Android](tor-on-android/iptproxy-pluggable-transports.md)
 * [NetCipher with Orbot (Legacy)](tor-on-android/netcipher-with-orbot-legacy.md)
 * [TorServices](tor-on-android/torservices.md)
 * [Arti Mobile on Android](tor-on-android/arti-mobile-on-android.md)
@@ -24,7 +25,7 @@
 
 * [All The Onions on Apples](tor-on-ios/onions-on-apples.md)
 * [Tor.Framework for iOS](tor-on-ios/tor.framework-for-ios.md)
-* [IPtProxy Pluggable Transports](tor-on-ios/iptproxy-pluggable-transports.md)
+* [Pluggable Transports for iOS](tor-on-ios/iptproxy-pluggable-transports.md)
 * [IPtProxyUI](tor-on-ios/iptproxyui.md)
 * [OrbotKit](tor-on-ios/orbotkit.md)
 * [TorManager](tor-on-ios/tormanager.md)
