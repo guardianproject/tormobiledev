@@ -34,3 +34,4 @@
 ## Help and Community
 
 * [Where to get help](help-and-community/where-to-get-help.md)
+* [Developer Story: Arti Integration Journey](help-and-community/developer-story-arti-integration-journey.md)
